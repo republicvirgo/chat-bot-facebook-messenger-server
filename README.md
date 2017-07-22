@@ -17,7 +17,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 ### Download as zip
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Download the .zip file from "Clone or download" button in the top.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 	> npm install
